@@ -12,11 +12,15 @@ You were sent to hunt. Now, you are hunted,
 Survival is your only mission.
 
 LICENSE
+
 Code under GPL 3.0+ 
+
 Media Under CC BY SA
 
 Other Mods and their License's----
+
 (Mod name | Mod License )
+
 newhand  | cc0
 Player_api | MIT
 sfinv | MIT
