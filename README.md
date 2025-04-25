@@ -1,3 +1,4 @@
+
 ESCAPE THE BEAST
 
 story--
@@ -15,19 +16,33 @@ Code under GPL 3.0+
 Media Under CC BY SA
 
 Other Mods and their License's----
+
 (Mod name | Mod License )
+
 newhand  | cc0
+
 Player_api | MIT
+
 sfinv | MIT
+
 creative | MIT
+
 mobs | MIT
+
 default | LGPL 2.1
+
 screwdriver | LGPL 2.1
+
 the_build_spawner | GPL 3.0
+
 mtfoods | GPL 3.0+
+
 cyber_car | WTFPl
+
 show_wielded_item | LGPL-2.1
+
 Wield3D | WTFPL
+
 ------------------
 Media-
 Kim Lightyear - Drowning
