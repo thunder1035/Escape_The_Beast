@@ -1,0 +1,66 @@
+ Storylines (Levels)
+
+ * The player is part of a rescue team , he went on a Mission to rescue and hunt down a Beast who is hunting down local villages/tribal people.
+ * In the Mission , a twist comes when they realise that its no beast , yet something even worst.
+ * Player is now tested and being hunted , trying his best to survive , Waiting for backup and ESCAPE THE BEAST
+
+
+------------
+local story_pages = {
+{image = "story_image1.png", 
+text = "You are part of an elite rescue team sent deep into the jungle to investigate a series of brutal attacks on local villages. The villagers whisper of a BEAST a relentless predator hunting them one by one, Your mission was to rescue survivors and eliminate the threat..."
+},
+
+{image = "story_image2.png",
+text = "Deeper into the jungle, your team is ambushed. Communication with base is comprimised. Unseen movements in the shadows, piercing screams in the night... This is no ordinary predator."
+},
+
+{image = "story_image3.png",
+text = "You were sent to hunt. Now, you are the hunted. Survival is your only mission—ESCAPE THE BEAST while waiting for backup… if it ever comes"
+}
+-----------
+
+ Plot --
+
+ In the game , player is trapped within local people and its TEAM . The Beast reffered by local is not from their world yet a Alien came on their world for hunting sport.
+
+ The Mission of player is COMPROMISED and now Will survive and wait for its own rescue.
+
+ Levels :
+
+  Level I -- Welcome to the Jungle
+ * Intro of player and their Mission (In images) Day.
+ * Aiming at the rescue base/checkpoint (In 3d animations) Day
+ * Going for the asset collection and for rescue (In 3d animations).
+ * Gets trapped/lost , injured. (In jungle with fire) Night.
+ * Meets locals , gets to know out of whole team few survived.
+ * Team gets together and calls for their rescue.
+ 
+ Level II -- The Hunt begins.
+ * Player first acknowledgement of Beast. 
+ * Player needs to find a way of out the jungle to back to the base.
+ * Player needs to stay safe and protect others while beast hunt them.
+ * In the end of their journey they arrive at Beast's spaceship , and knows about what it is.
+ 
+ Level III -- Into The Beast's Domain.  
+ * Player now knows about Beast's ship & it's goal , strength & weakness.
+ * Player gets his hands on its tech and hunting technology.
+ * Player before leaves the ship , gets to know about Beast's Hunt Plan. and Encounters Beast while he's escaping.
+ * Beast now kills everyone accept player and now will hunt it down as it was planned.
+ 
+ Level IV -- The Showdown.
+ 
+ * Player is now ready , as it knows about Beast's plan and know get's it in a trap of its own.
+ * Knowing they both will arrive at the ancient temple of Beast's where the kill their hunting prey.
+ * But since the player already knew this , Makes the Beast change it's few plans.
+ * Knowing it's a fight for their lives . Only one can escape , and only one can survive.
+ 
+ Ends with different Post Credit.
+ (I) If Player Wins. 
+ Player will be rescued by rescue squad & will take Beast and it's space ship in their R&D Labs.
+ 
+ (II) If Beast Wins.
+ Beast will knowingly kill all locals , and takes player's dead body as a trophy and leaves the planet.
+ 
+(III)If both dies
+Both the player and the Beast meet their end,  leaving the mysterious story of the Beast to haunt the galaxy.
