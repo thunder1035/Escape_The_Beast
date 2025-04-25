@@ -1,0 +1,17 @@
+See README.txt for other mod licenses and details
+
+
+License of media
+----------------
+Copyright (C) 2024 Thunder1035
+
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+
+License of source code
+----------------------
+Copyright (C) 2024 Thunder1035
+
+GNU GENERAL PUBLIC LICENSE 3.0 (GPL-3.0)
+https://www.gnu.org/licenses/gpl-3.0-standalone.html
