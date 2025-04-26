@@ -1,5 +1,6 @@
 
-ESCAPE THE BEAST
+![header_2](https://github.com/user-attachments/assets/85e8ca78-cbc8-47c0-b929-316159d1bd3a)
+
 
 story--
 You are part of an elite rescue team sent deep into the jungle to investigate
