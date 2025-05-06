@@ -10,7 +10,7 @@ eliminate the threat.
 Deeper into the jungle, your team is ambushed. Communication with base is comprimised
 Unseen movements in the shadows, piercing screams in the dark , This is no ordinary predator. 
 You were sent to hunt. Now, you are hunted,
-Survival is your only mission.
+Survival is your only option, Explore The Map to know Beast's true intention.
 
 LICENSE
 Code under GPL 3.0+ 
