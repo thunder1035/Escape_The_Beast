@@ -64,3 +64,8 @@ text = "You were sent to hunt. Now, you are the hunted. Survival is your only mi
  
 (III)If both dies
 Both the player and the Beast meet their end,  leaving the mysterious story of the Beast to haunt the galaxy.
+
+Extra details-
+about Beast: alien warrior
+species: raatrivyr
+planet: raatrilok
